@@ -8,6 +8,9 @@ public string PadLeft (int tamanhoDesejado, char caractereInserir, string valor)
 ```
 
 ##### Legenda:
-###### tamanhoDesejado => O numero de caracteres desejado ao final do processamento
-###### caractereInserir => O caractere que se deseja inserir à esquerda enquanto o 'valor' não atingir o 'tamanhoDesejado'
-###### valor => a variável, palavra, string que se deseja formatar..
+###### tamanhoDesejado 
+O numero de caracteres desejado ao final do processamento
+###### caractereInserir 
+O caractere que se deseja inserir à esquerda enquanto o 'valor' não atingir o 'tamanhoDesejado'
+###### valor 
+a variável, palavra, string que se deseja formatar..
